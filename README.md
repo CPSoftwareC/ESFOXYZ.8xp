@@ -5,7 +5,7 @@
 
 <h3>Biografia</h3>
 
-<p>Desenvolvido em TI-BASIC. Uso para auxiliar o estudo da Geometria analítica no espaço <strong>(Referencial <em>Oxyz</em>)</strong>. Indica se um determinado ponto, dado pelo usúario, está dentro de uma esfera ou superfície esférica, dada também pelo o usuário. Descendente do programa ESPACO.8xp.</p>
+<p>Desenvolvido em TI-BASIC. Uso para auxiliar o estudo da Geometria analítica no espaço <strong>(Referencial <em>Oxyz</em>)</strong>. Indica se um determinado ponto, dado pelo usuário, está dentro de uma esfera ou superfície esférica, dada também pelo o usuário. Descendente do programa ESPACO.8xp.</p>
 
 <h2>Versão <em><strong>1.0</strong></em></h2>
 
